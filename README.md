@@ -92,4 +92,4 @@ Rate limiting, polite timeouts, and a self-identifying User-Agent are baked in.
 
 ## License
 
-Personal project — © Yanghong Liu. Not for redistribution or commercial use.
+Personal project — © Yanghong Liu. Not for commercial use.
