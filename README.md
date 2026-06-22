@@ -45,7 +45,7 @@ python -m network.core example.com
 python -m network.core example.com
 
 # pass a full URL (domain is extracted automatically)
-python -m network.core https://sv.wikipedia.org/wiki/Instabox
+python -m network.core https://sv.wikipedia.org/wiki/whatever
 
 # specific probes only
 python -m network.core example.com --probes dns,whois,ssl
